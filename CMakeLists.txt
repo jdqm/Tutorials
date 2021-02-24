@@ -3,4 +3,4 @@ project(Tutorials)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Tutorials main.cpp pointer.cpp pointer.h)
+add_executable(Tutorials main.cpp pointer.cpp pointer.h functionPointer.cpp)
